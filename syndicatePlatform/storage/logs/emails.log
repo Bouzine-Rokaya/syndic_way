@@ -1,0 +1,873 @@
+===============================
+DATE: 2025-05-25 02:46:21
+TO: bouzinemari@gmail.com
+SUBJECT: Purchase Confirmation - Syndicate Management Platform
+BODY:
+
+        <html>
+        <body style='font-family: Arial, sans-serif; line-height: 1.6;'>
+            <h2>Thank you for your purchase!</h2>
+            <p>Dear mariam bouzine,</p>
+            <p>We have received your subscription purchase for the <strong>Professional Plan</strong>.</p>
+            
+            <div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+                <h3>Purchase Details:</h3>
+                <ul>
+                    <li><strong>Plan:</strong> Professional Plan</li>
+                    <li><strong>Price:</strong> €59.99/month</li>
+                    <li><strong>Max Residents:</strong> 100</li>
+                    <li><strong>Max Apartments:</strong> 200</li>
+                </ul>
+            </div>
+            
+            <p><strong>What's Next?</strong></p>
+            <p>Our admin team will create your syndicate account within 24 hours. You will receive:</p>
+            <ul>
+                <li>Login credentials via email</li>
+                <li>Setup instructions</li>
+                <li>Access to your management dashboard</li>
+            </ul>
+            
+            <p>If you have any questions, please don't hesitate to contact our support team.</p>
+            
+            <p>Best regards,<br>
+            The Syndicate Management Platform Team</p>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 02:46:24
+TO: admin@syndicate.com
+SUBJECT: New Subscription Purchase - Action Required
+BODY:
+
+        <html>
+        <body style='font-family: Arial, sans-serif; line-height: 1.6;'>
+            <h2>New Subscription Purchase</h2>
+            <p>A new subscription has been purchased and requires account creation.</p>
+            
+            <div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+                <h3>Customer Details:</h3>
+                <ul>
+                    <li><strong>Name:</strong> mariam bouzine</li>
+                    <li><strong>Email:</strong> bouzinemari@gmail.com</li>
+                    <li><strong>Phone:</strong> 0610509576</li>
+                    <li><strong>Company:</strong> my company</li>
+                    <li><strong>Address:</strong> trttttt</li>
+                </ul>
+                
+                <h3>Subscription Details:</h3>
+                <ul>
+                    <li><strong>Plan:</strong> Professional Plan</li>
+                    <li><strong>Price:</strong> €59.99/month</li>
+                    <li><strong>Duration:</strong> 12 months</li>
+                    <li><strong>Expiry Date:</strong> 2026-05-25</li>
+                </ul>
+            </div>
+            
+            <p><strong>Action Required:</strong></p>
+            <p>Please log in to the admin panel to create the syndic account for this customer.</p>
+            
+            <p><a href='http://localhost/syndicatePlatform/public/admin/create-syndic-account.php' style='background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>Create Account</a></p>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 02:46:33
+TO: bouzinemari@gmail.com
+SUBJECT: Welcome to Syndicate Management Platform - Your Account Details
+BODY:
+
+        <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: #667eea; color: white; padding: 20px; text-align: center; border-radius: 8px 8px 0 0; }
+                .content { background: #f8f9fa; padding: 30px; }
+                .credentials { background: white; padding: 20px; border-radius: 5px; margin: 20px 0; border-left: 4px solid #667eea; }
+                .footer { text-align: center; color: #666; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; }
+                .button { background: #667eea; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 20px 0; }
+                .password-box { background: #f1f1f1; padding: 10px; font-size: 18px; font-weight: bold; border-radius: 4px; color: #333; letter-spacing: 1px; }
+            </style>
+        </head>
+        <body>
+            <div class='container'>
+                <div class='header'>
+                    <h1>🏢 Welcome to Syndicate Management Platform</h1>
+                </div>
+                
+                <div class='content'>
+                    <h2>Dear mariam bouzine,</h2>
+                    
+                    <p>Congratulations! Your syndicate management account has been created successfully. You can now access your comprehensive dashboard to manage all your building operations efficiently.</p>
+                    
+                    <div class='credentials'>
+                        <h3>🔐 Your Login Credentials:</h3>
+                        <p><strong>📧 Email:</strong> bouzinemari@gmail.com</p>
+                        <p><strong>🔑 Temporary Password:</strong></p>
+                        <div class='password-box'>AI2GvOQbwch1</div>
+                    </div>
+                    
+                    <div style='background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0;'>
+                        <p><strong>⚠️ Important Security Notice:</strong><br>
+                        For your security, you will be required to change this temporary password on your first login.</p>
+                    </div>
+                    
+                    <div style='text-align: center;'>
+                        <a href='http://localhost/syndicatePlatform/public/login.php' class='button'>🚀 Login to Your Account</a>
+                    </div>
+                    
+                    <h3>🏢 What you can do with your account:</h3>
+                    <ul style='background: white; padding: 20px; border-radius: 5px;'>
+                        <li>👥 <strong>Manage residents and apartments</strong></li>
+                        <li>🔧 <strong>Handle maintenance requests efficiently</strong></li>
+                        <li>💰 <strong>Generate and track invoices</strong></li>
+                        <li>📢 <strong>Send announcements to residents</strong></li>
+                        <li>📊 <strong>View detailed reports and analytics</strong></li>
+                        <li>⚙️ <strong>Configure building settings</strong></li>
+                    </ul>
+                    
+                    <p>Need help getting started? Our support team is ready to assist you with any questions or guidance you may need.</p>
+                </div>
+                
+                <div class='footer'>
+                    <p><strong>Best regards,</strong><br>
+                    <strong>The Syndicate Management Platform Team</strong></p>
+                    
+                    <p><small>📧 This is an automated message. Please do not reply to this email.<br>
+                    🔗 Login URL: <a href='http://localhost/syndicatePlatform/public/login.php'>http://localhost/syndicatePlatform/public/login.php</a></small></p>
+                </div>
+            </div>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 02:50:00
+TO: rokaya@gmail.com
+SUBJECT: Purchase Confirmation - Syndicate Management Platform
+BODY:
+
+        <html>
+        <body style='font-family: Arial, sans-serif; line-height: 1.6;'>
+            <h2>Thank you for your purchase!</h2>
+            <p>Dear rokaya bzn,</p>
+            <p>We have received your subscription purchase for the <strong>Basic Plan</strong>.</p>
+            
+            <div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+                <h3>Purchase Details:</h3>
+                <ul>
+                    <li><strong>Plan:</strong> Basic Plan</li>
+                    <li><strong>Price:</strong> €29.99/month</li>
+                    <li><strong>Max Residents:</strong> 25</li>
+                    <li><strong>Max Apartments:</strong> 50</li>
+                </ul>
+            </div>
+            
+            <p><strong>What's Next?</strong></p>
+            <p>Our admin team will create your syndicate account within 24 hours. You will receive:</p>
+            <ul>
+                <li>Login credentials via email</li>
+                <li>Setup instructions</li>
+                <li>Access to your management dashboard</li>
+            </ul>
+            
+            <p>If you have any questions, please don't hesitate to contact our support team.</p>
+            
+            <p>Best regards,<br>
+            The Syndicate Management Platform Team</p>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 02:50:02
+TO: admin@syndicate.com
+SUBJECT: New Subscription Purchase - Action Required
+BODY:
+
+        <html>
+        <body style='font-family: Arial, sans-serif; line-height: 1.6;'>
+            <h2>New Subscription Purchase</h2>
+            <p>A new subscription has been purchased and requires account creation.</p>
+            
+            <div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+                <h3>Customer Details:</h3>
+                <ul>
+                    <li><strong>Name:</strong> rokaya bzn</li>
+                    <li><strong>Email:</strong> rokaya@gmail.com</li>
+                    <li><strong>Phone:</strong> 0610509589</li>
+                    <li><strong>Company:</strong> my company</li>
+                    <li><strong>Address:</strong> gfggf</li>
+                </ul>
+                
+                <h3>Subscription Details:</h3>
+                <ul>
+                    <li><strong>Plan:</strong> Basic Plan</li>
+                    <li><strong>Price:</strong> €29.99/month</li>
+                    <li><strong>Duration:</strong> 12 months</li>
+                    <li><strong>Expiry Date:</strong> 2026-05-25</li>
+                </ul>
+            </div>
+            
+            <p><strong>Action Required:</strong></p>
+            <p>Please log in to the admin panel to create the syndic account for this customer.</p>
+            
+            <p><a href='http://localhost/syndicatePlatform/public/admin/create-syndic-account.php' style='background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>Create Account</a></p>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 02:53:13
+TO: rokaya@gmail.com
+SUBJECT: Welcome to Syndicate Management Platform - Your Account Details
+BODY:
+
+        <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: #667eea; color: white; padding: 20px; text-align: center; border-radius: 8px 8px 0 0; }
+                .content { background: #f8f9fa; padding: 30px; }
+                .credentials { background: white; padding: 20px; border-radius: 5px; margin: 20px 0; border-left: 4px solid #667eea; }
+                .footer { text-align: center; color: #666; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; }
+                .button { background: #667eea; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 20px 0; }
+                .password-box { background: #f1f1f1; padding: 10px; font-size: 18px; font-weight: bold; border-radius: 4px; color: #333; letter-spacing: 1px; }
+            </style>
+        </head>
+        <body>
+            <div class='container'>
+                <div class='header'>
+                    <h1>🏢 Welcome to Syndicate Management Platform</h1>
+                </div>
+                
+                <div class='content'>
+                    <h2>Dear rokaya bzn,</h2>
+                    
+                    <p>Congratulations! Your syndicate management account has been created successfully. You can now access your comprehensive dashboard to manage all your building operations efficiently.</p>
+                    
+                    <div class='credentials'>
+                        <h3>🔐 Your Login Credentials:</h3>
+                        <p><strong>📧 Email:</strong> rokaya@gmail.com</p>
+                        <p><strong>🔑 Temporary Password:</strong></p>
+                        <div class='password-box'>Zau4rPxcV5AX</div>
+                    </div>
+                    
+                    <div style='background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0;'>
+                        <p><strong>⚠️ Important Security Notice:</strong><br>
+                        For your security, you will be required to change this temporary password on your first login.</p>
+                    </div>
+                    
+                    <div style='text-align: center;'>
+                        <a href='http://localhost/syndicatePlatform/public/login.php' class='button'>🚀 Login to Your Account</a>
+                    </div>
+                    
+                    <h3>🏢 What you can do with your account:</h3>
+                    <ul style='background: white; padding: 20px; border-radius: 5px;'>
+                        <li>👥 <strong>Manage residents and apartments</strong></li>
+                        <li>🔧 <strong>Handle maintenance requests efficiently</strong></li>
+                        <li>💰 <strong>Generate and track invoices</strong></li>
+                        <li>📢 <strong>Send announcements to residents</strong></li>
+                        <li>📊 <strong>View detailed reports and analytics</strong></li>
+                        <li>⚙️ <strong>Configure building settings</strong></li>
+                    </ul>
+                    
+                    <p>Need help getting started? Our support team is ready to assist you with any questions or guidance you may need.</p>
+                </div>
+                
+                <div class='footer'>
+                    <p><strong>Best regards,</strong><br>
+                    <strong>The Syndicate Management Platform Team</strong></p>
+                    
+                    <p><small>📧 This is an automated message. Please do not reply to this email.<br>
+                    🔗 Login URL: <a href='http://localhost/syndicatePlatform/public/login.php'>http://localhost/syndicatePlatform/public/login.php</a></small></p>
+                </div>
+            </div>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 03:20:37
+TO: adam@gmail.com
+SUBJECT: Purchase Confirmation - Syndicate Management Platform
+BODY:
+
+        <html>
+        <body style='font-family: Arial, sans-serif; line-height: 1.6;'>
+            <h2>Thank you for your purchase!</h2>
+            <p>Dear adam bouzine,</p>
+            <p>We have received your subscription purchase for the <strong>Professional Plan</strong>.</p>
+            
+            <div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+                <h3>Purchase Details:</h3>
+                <ul>
+                    <li><strong>Plan:</strong> Professional Plan</li>
+                    <li><strong>Price:</strong> €59.99/month</li>
+                    <li><strong>Max Residents:</strong> 100</li>
+                    <li><strong>Max Apartments:</strong> 200</li>
+                </ul>
+            </div>
+            
+            <p><strong>What's Next?</strong></p>
+            <p>Our admin team will create your syndicate account within 24 hours. You will receive:</p>
+            <ul>
+                <li>Login credentials via email</li>
+                <li>Setup instructions</li>
+                <li>Access to your management dashboard</li>
+            </ul>
+            
+            <p>If you have any questions, please don't hesitate to contact our support team.</p>
+            
+            <p>Best regards,<br>
+            The Syndicate Management Platform Team</p>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 03:20:39
+TO: admin@syndicate.com
+SUBJECT: New Subscription Purchase - Action Required
+BODY:
+
+        <html>
+        <body style='font-family: Arial, sans-serif; line-height: 1.6;'>
+            <h2>New Subscription Purchase</h2>
+            <p>A new subscription has been purchased and requires account creation.</p>
+            
+            <div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+                <h3>Customer Details:</h3>
+                <ul>
+                    <li><strong>Name:</strong> adam bouzine</li>
+                    <li><strong>Email:</strong> adam@gmail.com</li>
+                    <li><strong>Phone:</strong> 0610509576</li>
+                    <li><strong>Company:</strong> arrarra</li>
+                    <li><strong>Address:</strong> dfghjkl</li>
+                </ul>
+                
+                <h3>Subscription Details:</h3>
+                <ul>
+                    <li><strong>Plan:</strong> Professional Plan</li>
+                    <li><strong>Price:</strong> €59.99/month</li>
+                    <li><strong>Duration:</strong> 12 months</li>
+                    <li><strong>Expiry Date:</strong> 2026-05-25</li>
+                </ul>
+            </div>
+            
+            <p><strong>Action Required:</strong></p>
+            <p>Please log in to the admin panel to create the syndic account for this customer.</p>
+            
+            <p><a href='http://localhost/syndicatePlatform/public/admin/create-syndic-account.php' style='background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>Create Account</a></p>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 03:20:50
+TO: adam@gmail.com
+SUBJECT: Welcome to Syndicate Management Platform - Your Account Details
+BODY:
+
+        <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: #667eea; color: white; padding: 20px; text-align: center; border-radius: 8px 8px 0 0; }
+                .content { background: #f8f9fa; padding: 30px; }
+                .credentials { background: white; padding: 20px; border-radius: 5px; margin: 20px 0; border-left: 4px solid #667eea; }
+                .footer { text-align: center; color: #666; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; }
+                .button { background: #667eea; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 20px 0; }
+                .password-box { background: #f1f1f1; padding: 10px; font-size: 18px; font-weight: bold; border-radius: 4px; color: #333; letter-spacing: 1px; }
+            </style>
+        </head>
+        <body>
+            <div class='container'>
+                <div class='header'>
+                    <h1>🏢 Welcome to Syndicate Management Platform</h1>
+                </div>
+                
+                <div class='content'>
+                    <h2>Dear adam bouzine,</h2>
+                    
+                    <p>Congratulations! Your syndicate management account has been created successfully. You can now access your comprehensive dashboard to manage all your building operations efficiently.</p>
+                    
+                    <div class='credentials'>
+                        <h3>🔐 Your Login Credentials:</h3>
+                        <p><strong>📧 Email:</strong> adam@gmail.com</p>
+                        <p><strong>🔑 Temporary Password:</strong></p>
+                        <div class='password-box'>$^Lgk#U0@O6z</div>
+                    </div>
+                    
+                    <div style='background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0;'>
+                        <p><strong>⚠️ Important Security Notice:</strong><br>
+                        For your security, you will be required to change this temporary password on your first login.</p>
+                    </div>
+                    
+                    <div style='text-align: center;'>
+                        <a href='http://localhost/syndicatePlatform/public/login.php' class='button'>🚀 Login to Your Account</a>
+                    </div>
+                    
+                    <h3>🏢 What you can do with your account:</h3>
+                    <ul style='background: white; padding: 20px; border-radius: 5px;'>
+                        <li>👥 <strong>Manage residents and apartments</strong></li>
+                        <li>🔧 <strong>Handle maintenance requests efficiently</strong></li>
+                        <li>💰 <strong>Generate and track invoices</strong></li>
+                        <li>📢 <strong>Send announcements to residents</strong></li>
+                        <li>📊 <strong>View detailed reports and analytics</strong></li>
+                        <li>⚙️ <strong>Configure building settings</strong></li>
+                    </ul>
+                    
+                    <p>Need help getting started? Our support team is ready to assist you with any questions or guidance you may need.</p>
+                </div>
+                
+                <div class='footer'>
+                    <p><strong>Best regards,</strong><br>
+                    <strong>The Syndicate Management Platform Team</strong></p>
+                    
+                    <p><small>📧 This is an automated message. Please do not reply to this email.<br>
+                    🔗 Login URL: <a href='http://localhost/syndicatePlatform/public/login.php'>http://localhost/syndicatePlatform/public/login.php</a></small></p>
+                </div>
+            </div>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 03:58:28
+TO: Oussamalahmad02@gmail.com
+SUBJECT: Welcome to Your Building Portal - Syndicate Management Platform
+BODY:
+
+    <html>
+    <head>
+        <style>
+            body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+            .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+            .header { background: #28a745; color: white; padding: 20px; text-align: center; border-radius: 8px 8px 0 0; }
+            .content { background: #f8f9fa; padding: 30px; }
+            .credentials { background: white; padding: 20px; border-radius: 5px; margin: 20px 0; border-left: 4px solid #28a745; }
+            .footer { text-align: center; color: #666; margin-top: 30px; }
+            .button { background: #28a745; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 20px 0; }
+        </style>
+    </head>
+    <body>
+        <div class='container'>
+            <div class='header'>
+                <h1>🏠 Welcome to Your Building Portal</h1>
+            </div>
+            
+            <div class='content'>
+                <h2>Dear Bouzine mariam,</h2>
+                
+                <p>Welcome! Your resident account has been created for your building's management system. You can now access the resident portal to submit maintenance requests, view announcements, and manage your account.</p>
+                
+                <div class='credentials'>
+                    <h3>🔐 Your Login Credentials:</h3>
+                    <p><strong>📧 Email:</strong> Oussamalahmad02@gmail.com</p>
+                    <p><strong>🔑 Temporary Password:</strong></p>
+                    <div style='background: #f1f1f1; padding: 10px; font-size: 16px; font-weight: bold; border-radius: 4px; color: #333;'>Duyg06T48V#m</div>
+                </div>
+                
+                <div style='background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0;'>
+                    <p><strong>⚠️ Important:</strong> You must change this temporary password on your first login.</p>
+                </div>
+                
+                <div style='text-align: center;'>
+                    <a href='http://localhost/syndicatePlatform/public/login.php' class='button'>🚀 Access Resident Portal</a>
+                </div>
+                
+                <h3>🏠 What you can do:</h3>
+                <ul style='background: white; padding: 20px; border-radius: 5px;'>
+                    <li>📝 <strong>Submit maintenance requests</strong></li>
+                    <li>📋 <strong>Track your request status</strong></li>
+                    <li>📢 <strong>View building announcements</strong></li>
+                    <li>💰 <strong>View your invoices and charges</strong></li>
+                    <li>👤 <strong>Update your profile information</strong></li>
+                </ul>
+                
+                <p>If you have any questions, please contact your building management.</p>
+            </div>
+            
+            <div class='footer'>
+                <p><strong>Best regards,</strong><br>
+                <strong>Your Building Management Team</strong></p>
+                
+                <p><small>This is an automated message from Syndicate Management Platform</small></p>
+            </div>
+        </div>
+    </body>
+    </html>
+===============================
+
+===============================
+DATE: 2025-05-25 04:04:38
+TO: gdgd@gmail.com
+SUBJECT: Welcome to Syndicate Management Platform - Your Account Details
+BODY:
+
+        <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: #667eea; color: white; padding: 20px; text-align: center; border-radius: 8px 8px 0 0; }
+                .content { background: #f8f9fa; padding: 30px; }
+                .credentials { background: white; padding: 20px; border-radius: 5px; margin: 20px 0; border-left: 4px solid #667eea; }
+                .footer { text-align: center; color: #666; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; }
+                .button { background: #667eea; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 20px 0; }
+                .password-box { background: #f1f1f1; padding: 10px; font-size: 18px; font-weight: bold; border-radius: 4px; color: #333; letter-spacing: 1px; }
+            </style>
+        </head>
+        <body>
+            <div class='container'>
+                <div class='header'>
+                    <h1>🏢 Welcome to Syndicate Management Platform</h1>
+                </div>
+                
+                <div class='content'>
+                    <h2>Dear gdggd,</h2>
+                    
+                    <p>Congratulations! Your syndicate management account has been created successfully. You can now access your comprehensive dashboard to manage all your building operations efficiently.</p>
+                    
+                    <div class='credentials'>
+                        <h3>🔐 Your Login Credentials:</h3>
+                        <p><strong>📧 Email:</strong> gdgd@gmail.com</p>
+                        <p><strong>🔑 Temporary Password:</strong></p>
+                        <div class='password-box'>Ke#Y2dwuO6aG</div>
+                    </div>
+                    
+                    <div style='background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0;'>
+                        <p><strong>⚠️ Important Security Notice:</strong><br>
+                        For your security, you will be required to change this temporary password on your first login.</p>
+                    </div>
+                    
+                    <div style='text-align: center;'>
+                        <a href='http://localhost/syndicatePlatform/login.php' class='button'>🚀 Login to Your Account</a>
+                    </div>
+                    
+                    <h3>🏢 What you can do with your account:</h3>
+                    <ul style='background: white; padding: 20px; border-radius: 5px;'>
+                        <li>👥 <strong>Manage residents and apartments</strong></li>
+                        <li>🔧 <strong>Handle maintenance requests efficiently</strong></li>
+                        <li>💰 <strong>Generate and track invoices</strong></li>
+                        <li>📢 <strong>Send announcements to residents</strong></li>
+                        <li>📊 <strong>View detailed reports and analytics</strong></li>
+                        <li>⚙️ <strong>Configure building settings</strong></li>
+                    </ul>
+                    
+                    <p>Need help getting started? Our support team is ready to assist you with any questions or guidance you may need.</p>
+                </div>
+                
+                <div class='footer'>
+                    <p><strong>Best regards,</strong><br>
+                    <strong>The Syndicate Management Platform Team</strong></p>
+                    
+                    <p><small>📧 This is an automated message. Please do not reply to this email.<br>
+                    🔗 Login URL: <a href='http://localhost/syndicatePlatform/login.php'>http://localhost/syndicatePlatform/login.php</a></small></p>
+                </div>
+            </div>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 14:56:28
+TO: gggg@gmail.com
+SUBJECT: Purchase Confirmation - Syndicate Management Platform
+BODY:
+
+        <html>
+        <body style='font-family: Arial, sans-serif; line-height: 1.6;'>
+            <h2>Thank you for your purchase!</h2>
+            <p>Dear tsttst,</p>
+            <p>We have received your subscription purchase for the <strong>Professional Plan</strong>.</p>
+            
+            <div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+                <h3>Purchase Details:</h3>
+                <ul>
+                    <li><strong>Plan:</strong> Professional Plan</li>
+                    <li><strong>Price:</strong> €59.99/month</li>
+                    <li><strong>Max Residents:</strong> 100</li>
+                    <li><strong>Max Apartments:</strong> 200</li>
+                </ul>
+            </div>
+            
+            <p><strong>What's Next?</strong></p>
+            <p>Our admin team will create your syndicate account within 24 hours. You will receive:</p>
+            <ul>
+                <li>Login credentials via email</li>
+                <li>Setup instructions</li>
+                <li>Access to your management dashboard</li>
+            </ul>
+            
+            <p>If you have any questions, please don't hesitate to contact our support team.</p>
+            
+            <p>Best regards,<br>
+            The Syndicate Management Platform Team</p>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 14:56:30
+TO: admin@syndicate.com
+SUBJECT: New Subscription Purchase - Action Required
+BODY:
+
+        <html>
+        <body style='font-family: Arial, sans-serif; line-height: 1.6;'>
+            <h2>New Subscription Purchase</h2>
+            <p>A new subscription has been purchased and requires account creation.</p>
+            
+            <div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+                <h3>Customer Details:</h3>
+                <ul>
+                    <li><strong>Name:</strong> tsttst</li>
+                    <li><strong>Email:</strong> gggg@gmail.com</li>
+                    <li><strong>Phone:</strong> sgsggs</li>
+                    <li><strong>Company:</strong> gsggsg</li>
+                    <li><strong>Address:</strong> sgsggs</li>
+                </ul>
+                
+                <h3>Subscription Details:</h3>
+                <ul>
+                    <li><strong>Plan:</strong> Professional Plan</li>
+                    <li><strong>Price:</strong> €59.99/month</li>
+                    <li><strong>Duration:</strong> 12 months</li>
+                    <li><strong>Expiry Date:</strong> 2026-05-25</li>
+                </ul>
+            </div>
+            
+            <p><strong>Action Required:</strong></p>
+            <p>Please log in to the admin panel to create the syndic account for this customer.</p>
+            
+            <p><a href='http://localhost/syndicatePlatform/admin/create-syndic-account.php' style='background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>Create Account</a></p>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 16:05:29
+TO: testDB@gmail.com
+SUBJECT: Purchase Confirmation - Syndicate Management Platform
+BODY:
+
+        <html>
+        <body style='font-family: Arial, sans-serif; line-height: 1.6;'>
+            <h2>Thank you for your purchase!</h2>
+            <p>Dear tsttst,</p>
+            <p>We have received your subscription purchase for the <strong>Enterprise Plan</strong>.</p>
+            
+            <div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+                <h3>Purchase Details:</h3>
+                <ul>
+                    <li><strong>Plan:</strong> Enterprise Plan</li>
+                    <li><strong>Price:</strong> €99.99/month</li>
+                    <li><strong>Max Residents:</strong> 500</li>
+                    <li><strong>Max Apartments:</strong> 1000</li>
+                </ul>
+            </div>
+            
+            <p><strong>What's Next?</strong></p>
+            <p>Our admin team will create your syndicate account within 24 hours. You will receive:</p>
+            <ul>
+                <li>Login credentials via email</li>
+                <li>Setup instructions</li>
+                <li>Access to your management dashboard</li>
+            </ul>
+            
+            <p>If you have any questions, please don't hesitate to contact our support team.</p>
+            
+            <p>Best regards,<br>
+            The Syndicate Management Platform Team</p>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 16:05:31
+TO: admin@syndicate.com
+SUBJECT: New Subscription Purchase - Action Required
+BODY:
+
+        <html>
+        <body style='font-family: Arial, sans-serif; line-height: 1.6;'>
+            <h2>New Subscription Purchase</h2>
+            <p>A new subscription has been purchased and requires account creation.</p>
+            
+            <div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+                <h3>Customer Details:</h3>
+                <ul>
+                    <li><strong>Name:</strong> tsttst</li>
+                    <li><strong>Email:</strong> testDB@gmail.com</li>
+                    <li><strong>Phone:</strong> 0628876789</li>
+                    <li><strong>Company:</strong> gsggsg</li>
+                    <li><strong>Address:</strong> gffgggff</li>
+                </ul>
+                
+                <h3>Subscription Details:</h3>
+                <ul>
+                    <li><strong>Plan:</strong> Enterprise Plan</li>
+                    <li><strong>Price:</strong> €99.99/month</li>
+                    <li><strong>Duration:</strong> 12 months</li>
+                    <li><strong>Expiry Date:</strong> 2026-05-25</li>
+                </ul>
+            </div>
+            
+            <p><strong>Action Required:</strong></p>
+            <p>Please log in to the admin panel to create the syndic account for this customer.</p>
+            
+            <p><a href='http://localhost/syndicatePlatform/admin/create-syndic-account.php' style='background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>Create Account</a></p>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 16:54:59
+TO: testDB@gmail.com
+SUBJECT: Welcome to Syndicate Management Platform - Your Account Details
+BODY:
+
+        <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: #667eea; color: white; padding: 20px; text-align: center; border-radius: 8px 8px 0 0; }
+                .content { background: #f8f9fa; padding: 30px; }
+                .credentials { background: white; padding: 20px; border-radius: 5px; margin: 20px 0; border-left: 4px solid #667eea; }
+                .footer { text-align: center; color: #666; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; }
+                .button { background: #667eea; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 20px 0; }
+                .password-box { background: #f1f1f1; padding: 10px; font-size: 18px; font-weight: bold; border-radius: 4px; color: #333; letter-spacing: 1px; }
+            </style>
+        </head>
+        <body>
+            <div class='container'>
+                <div class='header'>
+                    <h1>🏢 Welcome to Syndicate Management Platform</h1>
+                </div>
+                
+                <div class='content'>
+                    <h2>Dear tsttst,</h2>
+                    
+                    <p>Congratulations! Your syndicate management account has been created successfully. You can now access your comprehensive dashboard to manage all your building operations efficiently.</p>
+                    
+                    <div class='credentials'>
+                        <h3>🔐 Your Login Credentials:</h3>
+                        <p><strong>📧 Email:</strong> testDB@gmail.com</p>
+                        <p><strong>🔑 Temporary Password:</strong></p>
+                        <div class='password-box'>SshKk3m9Jf^!</div>
+                    </div>
+                    
+                    <div style='background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0;'>
+                        <p><strong>⚠️ Important Security Notice:</strong><br>
+                        For your security, you will be required to change this temporary password on your first login.</p>
+                    </div>
+                    
+                    <div style='text-align: center;'>
+                        <a href='http://localhost/syndicatePlatform/login.php' class='button'>🚀 Login to Your Account</a>
+                    </div>
+                    
+                    <h3>🏢 What you can do with your account:</h3>
+                    <ul style='background: white; padding: 20px; border-radius: 5px;'>
+                        <li>👥 <strong>Manage residents and apartments</strong></li>
+                        <li>🔧 <strong>Handle maintenance requests efficiently</strong></li>
+                        <li>💰 <strong>Generate and track invoices</strong></li>
+                        <li>📢 <strong>Send announcements to residents</strong></li>
+                        <li>📊 <strong>View detailed reports and analytics</strong></li>
+                        <li>⚙️ <strong>Configure building settings</strong></li>
+                    </ul>
+                    
+                    <p>Need help getting started? Our support team is ready to assist you with any questions or guidance you may need.</p>
+                </div>
+                
+                <div class='footer'>
+                    <p><strong>Best regards,</strong><br>
+                    <strong>The Syndicate Management Platform Team</strong></p>
+                    
+                    <p><small>📧 This is an automated message. Please do not reply to this email.<br>
+                    🔗 Login URL: <a href='http://localhost/syndicatePlatform/login.php'>http://localhost/syndicatePlatform/login.php</a></small></p>
+                </div>
+            </div>
+        </body>
+        </html>
+===============================
+
+===============================
+DATE: 2025-05-25 17:03:02
+TO: gggg@gmail.com
+SUBJECT: Welcome to Syndicate Management Platform - Your Account Details
+BODY:
+
+        <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: #667eea; color: white; padding: 20px; text-align: center; border-radius: 8px 8px 0 0; }
+                .content { background: #f8f9fa; padding: 30px; }
+                .credentials { background: white; padding: 20px; border-radius: 5px; margin: 20px 0; border-left: 4px solid #667eea; }
+                .footer { text-align: center; color: #666; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; }
+                .button { background: #667eea; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 20px 0; }
+                .password-box { background: #f1f1f1; padding: 10px; font-size: 18px; font-weight: bold; border-radius: 4px; color: #333; letter-spacing: 1px; }
+            </style>
+        </head>
+        <body>
+            <div class='container'>
+                <div class='header'>
+                    <h1>🏢 Welcome to Syndicate Management Platform</h1>
+                </div>
+                
+                <div class='content'>
+                    <h2>Dear tsttst,</h2>
+                    
+                    <p>Congratulations! Your syndicate management account has been created successfully. You can now access your comprehensive dashboard to manage all your building operations efficiently.</p>
+                    
+                    <div class='credentials'>
+                        <h3>🔐 Your Login Credentials:</h3>
+                        <p><strong>📧 Email:</strong> gggg@gmail.com</p>
+                        <p><strong>🔑 Temporary Password:</strong></p>
+                        <div class='password-box'>2mpV1Fbi%6Ix</div>
+                    </div>
+                    
+                    <div style='background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0;'>
+                        <p><strong>⚠️ Important Security Notice:</strong><br>
+                        For your security, you will be required to change this temporary password on your first login.</p>
+                    </div>
+                    
+                    <div style='text-align: center;'>
+                        <a href='http://localhost/syndicatePlatform/public/login.php' class='button'>🚀 Login to Your Account</a>
+                    </div>
+                    
+                    <h3>🏢 What you can do with your account:</h3>
+                    <ul style='background: white; padding: 20px; border-radius: 5px;'>
+                        <li>👥 <strong>Manage residents and apartments</strong></li>
+                        <li>🔧 <strong>Handle maintenance requests efficiently</strong></li>
+                        <li>💰 <strong>Generate and track invoices</strong></li>
+                        <li>📢 <strong>Send announcements to residents</strong></li>
+                        <li>📊 <strong>View detailed reports and analytics</strong></li>
+                        <li>⚙️ <strong>Configure building settings</strong></li>
+                    </ul>
+                    
+                    <p>Need help getting started? Our support team is ready to assist you with any questions or guidance you may need.</p>
+                </div>
+                
+                <div class='footer'>
+                    <p><strong>Best regards,</strong><br>
+                    <strong>The Syndicate Management Platform Team</strong></p>
+                    
+                    <p><small>📧 This is an automated message. Please do not reply to this email.<br>
+                    🔗 Login URL: <a href='http://localhost/syndicatePlatform/public/login.php'>http://localhost/syndicatePlatform/public/login.php</a></small></p>
+                </div>
+            </div>
+        </body>
+        </html>
+===============================
+
